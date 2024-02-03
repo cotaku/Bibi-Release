@@ -24,7 +24,7 @@ We may update our Privacy Policy from time to time. Any changes to this policy w
 
 If you have any questions or concerns about this Privacy Policy, please contact us at [atelier39 at outlook dot com].
 
-## Chinese:
+## 中文版:
 
 本隐私政策规定了“22与33的秘密基地”（以下简称“应用程序”）从应用程序用户收集、使用、维护和披露的信息的方式。本隐私政策适用于应用程序以及提供的所有产品和服务。
 
