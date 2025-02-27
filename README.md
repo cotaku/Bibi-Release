@@ -1,6 +1,7 @@
 # Bibi-Release
 这里是某个B开头的UWP app的appx分发中心，其本体已经由于大人的原因无法继续在微软商店中公开发布了。
-This is the distribution hub for a UWP app whose name starts with a "B". The main app can no longer be publicly released on the Microsoft Store due to reasons beyond my control.
+
+(This is the distribution hub for a UWP app whose name starts with a "B". The main app can no longer be publicly released on the Microsoft Store due to reasons beyond my control.)
 
 最低系统版本要求为16299（ARM版为15063）。
 
